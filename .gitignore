@@ -1,0 +1,3 @@
+*.egg-info/*
+libmysql_utils/header.py
+unittest_mysql.py
